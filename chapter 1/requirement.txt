@@ -1,0 +1,7 @@
+numpy
+pandas
+jupyter
+mypy
+pyjokes
+pyttsx3
+flask
